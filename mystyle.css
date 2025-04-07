@@ -1,0 +1,33 @@
+body {
+      background-color: #04062d;
+      color: white;
+      background-image:url("https://img.freepik.com/free-vector/paper-style-dynamic-lines-background_23-2149008629.jpg");	background-repeat:no-repeat;
+	background-size:cover;
+    }
+    div {
+      margin:5%;
+      font-size:1.3em;
+    }
+    #head {
+      margin-top: 10%;
+      text-align: center;
+      font-size: 4em; 
+	font-family:tahoma;
+    }
+    #details {
+      display: flex;
+      margin-top: 0%;
+    }
+  #hdng{
+	margin-right:200%;
+}
+h2{
+font-family:verdana;
+}
+h1{
+color:yellow;
+}
+a{
+color:yellow;
+}
+
